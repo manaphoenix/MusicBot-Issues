@@ -1,1 +1,1 @@
-The only thing this repo is for is to submit and track issues, suggestions etc... for the bot for the Empyrean Network.
+This is the Issue Tracker for Empyrean Networks Bot. Here you can submit Issues, Suggestions, or Just see what im working on in the bot.
